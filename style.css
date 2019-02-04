@@ -1,0 +1,14 @@
+body {
+  background-color: lightblue;
+  margin: auto;
+  width: 80%;
+  max-width: 900px;
+}
+
+h1 {
+  color: coral;
+}
+
+button {
+  margin-left: 15px;
+}
